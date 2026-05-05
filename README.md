@@ -22,7 +22,7 @@ Facilitar la organización, seguimiento y control de pedidos mediante una plataf
 - (otros archivos del sistema)
 
 ## Autor
-Janela Cusi
-Jose Luis Huilca
-Bruce Mamani
-Luis Ramos
+* Janela Cusi
+* Jose Luis Huilca
+* Bruce Mamani
+* Luis Ramos
